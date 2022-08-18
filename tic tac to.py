@@ -1,7 +1,6 @@
 board = ['-', '-', '-', '-', '-', '-', '-', '-', '-']
 visited = []
-print("**** Tic Tac To ****")
-print("\n")
+print("**** Tic Tac To **** \n")
 print("Enter a position from 1 to 9")
 
 
